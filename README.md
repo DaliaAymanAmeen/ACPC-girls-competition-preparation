@@ -1,6 +1,8 @@
 # ACPC-girls-competition-preparation
+In this repo I added my soultions for some problems on codeforces, and this is the link of the problems
+https://codeforces.com/group/X9W9cBLHIG/contests
 
-**Here are some (Tips and tricks) by our coach in the competetion Eng: AMR-KELEG** 
+**Some (Tips and tricks) by our coach -in the competetion- Eng: AMR-KELEG** 
 
 ## How to compare two floating point variables?
 ```cpp
